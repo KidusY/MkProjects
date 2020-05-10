@@ -1,7 +1,13 @@
-## Mk Contact form with Login
+## MK Contact form with Login
  
- To login for the first time a user can register and then can login
+ Users can register using email and be able to use the conatct form.
  
- ## The backend uses lambda, API Getway and dynamoDb
+ ## Link to Demo MK Sign in http://mkcontact.s3-website-us-west-1.amazonaws.com/
+ ### Project Details
+ - front end form was created using React
+ - Lambda function was used to trigger email send event and save the form details to DynamoDB
+ ### Git Repo Content
+ - 
+ 
  
  
