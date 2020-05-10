@@ -1,0 +1,21 @@
+.message {
+	position: absolute;
+	top: 50%;
+	left: 40%;
+}
+.logo {
+	display: block;
+	width: 25%;
+	min-width: 100px;
+	max-width: 300px;
+	margin: 50px auto;
+}
+.avater {
+	display: block;
+	width: 50%;
+	margin: 10px auto;
+	text-align: center;
+}
+h1 {
+	text-align: center;
+}
