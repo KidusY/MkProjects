@@ -7,7 +7,9 @@
  - front end form was created using React
  - Lambda function was used to trigger email send event and save the form details to DynamoDB
  ### Git Repo Content
- - 
+ - includes the react aspect of the code.
+ - To clone this project and run it, simply run npm install and afterwards npm run.
+ 
  
  
  
